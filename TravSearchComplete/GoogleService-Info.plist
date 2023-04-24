@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>643705836546-t8kbql13m3l6adq8k9cs84tn6f7vpbl2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.643705836546-t8kbql13m3l6adq8k9cs84tn6f7vpbl2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAfSEKwf24uROtoNjlqgoBgbdlsp4sKBr0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>643705836546</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zu-lfiye.TravSearchComplete</string>
+	<key>PROJECT_ID</key>
+	<string>travsearchcomplete-b2b78</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travsearchcomplete-b2b78.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:643705836546:ios:386147b32d85686b91431b</string>
+	<key>DATABASE_URL</key>
+	<string>https://travsearchcomplete-b2b78-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
